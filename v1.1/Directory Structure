@@ -1,0 +1,10 @@
+project/
+├── app/
+│   ├── static/
+│   │   └── styles.css
+│   ├── templates/
+│   │   ├── login.html
+│   │   └── register.html
+│   └── requirements.txt
+├── docker-compose.yml
+└── Dockerfile
