@@ -1,4 +1,4 @@
-# Secure application with all components involved
+# Secure application v1.1
 
 
 ## Stages 
