@@ -1,6 +1,17 @@
 # My plan is to build a Secure application with all components involved
 
-> Wish to include JWT, OAuth, GraphQL, SOP, CORS Features possiable
+
+## Stages
+- **v1.0** Developed docker image with Ubuntu having MySQL DB, login, Register pages
+
+### Configuration 
+- Create a Python virtual environment on this path with the below commands
+```bash
+python3 -m venv docker #it will create new python virtual environemt name docker
+source docker/bin/activate #It will start the environment from docker directory created in above
+```
+
+> Wish to include JWT, OAuth, GraphQL, SOP, and CORS Features possible
 
 ## Key Features
 - Secure Password Hashing: Uses pbkdf2_sha256 for password storage.
@@ -19,5 +30,3 @@
 
 
 
-## Stages
-- **v1.0** Developed docker image with Ubuntu having MySQL DB, Login, Register pages
