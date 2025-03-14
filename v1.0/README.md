@@ -1,4 +1,4 @@
-# My plan is to build a Secure application with all components involved
+# Secure application v1.0
 
 
 ## Stages
@@ -9,6 +9,7 @@
 ```bash
 python3 -m venv docker #it will create new python virtual environemt name docker
 source docker/bin/activate #It will start the environment from docker directory created in above
+./docker/bin/activate.ps1 # Windows powershell 
 ```
 ### Installation
 ```bash
