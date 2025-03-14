@@ -1,4 +1,4 @@
-# My plan is to build a Secure application with all components involved
+# Secure application with all components involved
 
 
 ## Stages 
@@ -10,8 +10,10 @@
 ```bash
 python3 -m venv docker #it will create new python virtual environemt name docker
 source docker/bin/activate #It will start the environment from docker directory created in above
+./docker/bin/activate.ps1 # Windows powershell 
 ```
 ### Installation
+> Must run the commands with python virtual environment
 ```bash
 docker images # Check any images
 docker rmi <Image ID> # It will delete perticular Image
