@@ -22,7 +22,7 @@ docker compose down
 docker compose up --build
 ```
 ### Credentials DVA
-- USer:Password - admin:admin123
+- USer:Password - admin:P@ssW0rd
 
 
 
